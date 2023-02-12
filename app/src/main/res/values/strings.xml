@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Milagroso eHealth</string>
+    <string name="buscar_mediciones">Buscar mediciones</string>
+    <string name="mediciones">No se ha seleccionado ningún tipo de paciente</string>
+    <string-array name="tipo_de_enfermedad">
+        <item>Diabetes</item>
+        <item>Hipertensión</item>
+        <item>Insuficiencia cardíaca</item>
+    </string-array>
+</resources>
